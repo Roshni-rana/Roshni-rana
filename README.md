@@ -11,13 +11,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter , Dart**
 
-- 💬 Ask me about **Flutter, java, dart**
+- 💻 Flutter Developer
+
+- 🤝 Looking to collaborate on Flutter
+
+- 🤠 Open Source Enthusiast
 
 - 📫 How to reach me **roshnirana167@gmail.com**
+ 
+- 🌱 I’m exploring Nodejs or **Flutter and Dart**
 
-- ⚡ Fun fact **I am funny**
+- 💬 Ask me about Flutter, Dart, RestApi, and C++ .
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
